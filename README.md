@@ -1,6 +1,6 @@
 # 👋 Introducing Myself
 
-Hi, I am Pei Ying. Aspiring Data Analyst with a strong foundation in data analysis, visualization, and reporting. Passionate about transforming raw data into meaningful insights to drive informed decision-making.
+Hi, I am Pei Ying. Aspiring Data Analyst with a strong foundation in data analysis, visualization, and reporting. Currently building hands-on experience through personal projects. Passionate about transforming raw data into meaningful insights to drive informed decision-making.
 
 ## 🔍 Skills & Expertise
 - Querying and analyzing data using **SQL**
