@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Introducing Myself
 
-<!--
-**pei2705ying/pei2705ying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Pei Ying. Aspiring Data Analyst with a strong foundation in data analysis, visualization, and reporting. Passionate about transforming raw data into meaningful insights to drive informed decision-making.
 
-Here are some ideas to get you started:
+## 🔍 Skills & Expertise
+- Querying and analyzing data using **SQL**
+- Developing interactive dashboards with **Tableau** and **Power BI**
+- Performing data analysis and reporting using **Google Sheets** and **Excel**
+- Leveraging **Python** for data processing and visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+Welcome to my portfolio! Here, I showcase various data analysis projects that demonstrate my ability to work with real-world datasets, extract insights, and present findings effectively.
+
+## 🛠️ Tools & Technologies
+- **Languages:** SQL, Python
+- **Databases:** MySQL
+- **Visualization:** Tableau, PowerBI, Matplotlib, Seaborn
+- **Other:** Excel, Google Sheets
+
+## 📬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/pei-ying-chong-4546a6225/)
